@@ -1,2 +1,1 @@
-# linux_beginner
-The scenic route to knowing more Linux
+## Mac scripts for the absolute beginner
