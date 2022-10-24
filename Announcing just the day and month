@@ -1,0 +1,7 @@
+#!/bin/sh
+
+#A script that says specific stuff from the system date
+
+d=`date '+%A %d-%B'`
+
+say $d
