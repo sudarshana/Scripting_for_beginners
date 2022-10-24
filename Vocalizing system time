@@ -1,0 +1,6 @@
+#!/bin/sh
+#Saying the system time out loud
+
+time=$(date +"%T")
+
+say The time is now $time. Thank you.
